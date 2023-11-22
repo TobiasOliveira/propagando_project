@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # Apps created for admin
-    'propagando'
+    'propagando',
+    'fontawesomefree',
 ]
 
 MIDDLEWARE = [
